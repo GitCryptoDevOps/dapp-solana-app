@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dapp-solana-app/static/css/main.6276041c.chunk.css",
+    "main.js": "/dapp-solana-app/static/js/main.e8bbb727.chunk.js",
+    "main.js.map": "/dapp-solana-app/static/js/main.e8bbb727.chunk.js.map",
+    "runtime-main.js": "/dapp-solana-app/static/js/runtime-main.e43d6780.js",
+    "runtime-main.js.map": "/dapp-solana-app/static/js/runtime-main.e43d6780.js.map",
+    "static/js/2.561dd859.chunk.js": "/dapp-solana-app/static/js/2.561dd859.chunk.js",
+    "static/js/2.561dd859.chunk.js.map": "/dapp-solana-app/static/js/2.561dd859.chunk.js.map",
+    "index.html": "/dapp-solana-app/index.html",
+    "static/css/main.6276041c.chunk.css.map": "/dapp-solana-app/static/css/main.6276041c.chunk.css.map",
+    "static/js/2.561dd859.chunk.js.LICENSE.txt": "/dapp-solana-app/static/js/2.561dd859.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.d89d9a86.svg": "/dapp-solana-app/static/media/twitter-logo.d89d9a86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e43d6780.js",
+    "static/js/2.561dd859.chunk.js",
+    "static/css/main.6276041c.chunk.css",
+    "static/js/main.e8bbb727.chunk.js"
+  ]
+}
